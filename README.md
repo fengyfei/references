@@ -6,6 +6,10 @@
 
 - [What makes a cluster a cluster?](https://coreos.com/blog/cluster-osi-model.html)
 
+### SOA
+
+- [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
+
 ## Wikipedia
 
 ### Networking
