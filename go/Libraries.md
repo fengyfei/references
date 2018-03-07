@@ -18,6 +18,10 @@
 
 - [etcd](https://github.com/coreos/etcd)
 
+### [fuse](https://github.com/bazil/fuse)
+
+- [go-ipfs](https://github.com/ipfs/go-ipfs)
+
 ### [go-radix](http://github.com/armon/go-radix)
 
 - [dep](https://github.com/golang/dep)
