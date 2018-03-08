@@ -66,3 +66,7 @@
 
 - [moby](https://github.com/moby/moby)
 - [kubernetes](https://github.com/kubernetes/kubernetes)
+
+### [mistifyio/go-zfs](https://github.com/mistifyio/go-zfs)
+
+- [moby](https://github.com/moby/moby)
