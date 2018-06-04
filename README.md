@@ -11,6 +11,10 @@
 
 - [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
 
+### Mircoservices
+
+- [Microservices in Go](https://medium.com/@antklim/microservices-in-go-2fc1570f6800)
+
 ## Wikipedia
 
 ### Networking
