@@ -15,9 +15,13 @@
 
 - [Microservices in Go](https://medium.com/@antklim/microservices-in-go-2fc1570f6800)
 
-### Others
+### Databases
 
 - [Writing a Time Series Database from Scratch](https://fabxc.org/tsdb/)
+
+### Go
+
+- [Gracefully Restarting a Go Program Without Downtime](https://gravitational.com/blog/golang-ssh-bastion-graceful-restarts/)
 
 ## Wikipedia
 
