@@ -22,6 +22,7 @@
 ### Go
 
 - [Gracefully Restarting a Go Program Without Downtime](https://gravitational.com/blog/golang-ssh-bastion-graceful-restarts/)
+- [Go code refactoring : the 23x performance hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
 
 ## Wikipedia
 
